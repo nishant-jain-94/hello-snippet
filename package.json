@@ -12,6 +12,7 @@
   "activationEvents": [
     "onCommand:hello-snippet.helloWorld"
   ],
+  "publisher": "NishantJain",
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
